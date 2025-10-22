@@ -358,7 +358,7 @@ bansachonline/
 - `/admin/order/details/{chitiet}` - Chi tiết đơn hàng
 - `/admin/order/delete/{id}` - Xóa đơn hàng
 - `/upload` - Upload hình ảnh
- Account Admin: admin@book.com | 12345678
+ - `Account Admin: admin@book.com | 12345678
 ## 📧 Tính năng Email
 
 Ứng dụng tự động gửi email xác nhận khi khách hàng đặt hàng thành công thông qua `TestMail` class.
